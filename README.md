@@ -1,1 +1,1 @@
-# svg-code-generator
+SVG Code Generator → [https://jit.dev/svg-code-generator](https://jit.dev/svg-code-generator)
